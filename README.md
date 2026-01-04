@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot
 
-![EcommerceApp Screenshot](screenshots/FinalView.svg)
+![EcommerceApp Screenshot](screenshots/screenshot.svg)
 
 > Replace the placeholder image in `./screenshots/screenshot.svg` with your real screenshot (for example: `screenshots/screenshot.png`).
 
